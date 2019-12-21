@@ -8,4 +8,5 @@ def line(place_in_line)
     line_array.push ("#{index}. #{name}")
   end
   puts "The line is currently: #{line_array.join("")}"
-  
+end
+end
