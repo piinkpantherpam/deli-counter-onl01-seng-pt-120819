@@ -10,4 +10,3 @@ def line(place_in_line)
   puts "The line is currently: #{line_array.join("")}"
 end
 end
-
