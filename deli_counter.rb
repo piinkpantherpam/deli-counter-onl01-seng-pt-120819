@@ -1,2 +1,3 @@
 katz_deli = [] 
-def line[x]
+def line(place_in_line)
+  
