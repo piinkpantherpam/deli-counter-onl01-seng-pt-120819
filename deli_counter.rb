@@ -7,3 +7,4 @@ def line(place_in_line)
   else place_in_line.each.with_index(1) do |index, name|
     line_array.push ("#{index}. #{name}")
   end
+  puts 
